@@ -1,6 +1,7 @@
 ### Hi there 👋
-#### I am open to work on new Projects🔭
-![LeetCode Stats](https://leetcard.jacoblin.cool/alymohamed20?theme=wtf&font=Arsenal)
+
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/alymohamed20?theme=dark&font=Arsenal)
 <!--
 **alymohamed20/alymohamed20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
