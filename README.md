@@ -7,7 +7,7 @@
 
 
 ### I'm constantly trying to learn new skills and enhance my knowledge 📚🧠💡
-### I’m looking to collaborate on new Projects and new Teams..🤝
+### I’m looking to collaborate on new Projects with new Teams..🤝
 ### Here is my LeetCode Score...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alymohamed20?theme=dark&font=Arsenal)
 <!--
