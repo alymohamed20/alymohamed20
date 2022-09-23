@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Ali Mohamed👋
 
+## Software Engineer|Problem Solver| Deep Learning Developer
 
+### Here is my LeetCode Score...
 ![LeetCode Stats](https://leetcard.jacoblin.cool/alymohamed20?theme=dark&font=Arsenal)
 <!--
 **alymohamed20/alymohamed20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
