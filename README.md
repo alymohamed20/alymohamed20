@@ -1,6 +1,6 @@
 # Hi there, I'm Ali Mohamed👋
 
-## Software Engineer | Problem Solver | Deep Learning Developer
+## Software Engineer | Data Engineer | Deep Learning Developer
 
 ##  I am a bachelor's degree holder in Faculty of Computer Science 💻
 
